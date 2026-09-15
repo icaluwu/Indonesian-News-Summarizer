@@ -1,0 +1,11 @@
+unsloth
+unsloth_zoo
+datasets
+transformers
+trl
+peft
+bitsandbytes
+accelerate
+rouge-score
+pyyaml
+huggingface_hub
